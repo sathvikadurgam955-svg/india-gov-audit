@@ -1,3 +1,23 @@
+
+
+Internship Project
+
+Organization: Rabtech Academy
+
+Project Title: India Government Website Accessibility Audit
+
+Project Description:
+
+This project focuses on auditing the accessibility of an Indian government website to identify accessibility issues and suggest improvements. The audit covers areas such as color contrast, image alternative text, and proper ARIA usage.
+
+Tools Used: GitHub, Lighthouse, HTML, Accessibility Testing Tools.
+
+Project Work:
+
+- Identified accessibility issues.
+- Recorded audit findings.
+- Uploaded project files and documentation to GitHub.
+
 # India.gov.in Accessibility & Architecture Audit
 
 Audited website: https://www.india.gov.in/
@@ -20,3 +40,4 @@ Audited website: https://www.india.gov.in/
 5. Images with incorrect aspect ratio — Medium
 
 This repository is a setup-ready audit/project skeleton.
+
